@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-st.sidebar.title("Navegação")
-
 st.title("Dinah Dantas") 
 st.subheader("Estudante de Ciência de Dados")
 
