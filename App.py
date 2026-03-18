@@ -15,12 +15,14 @@ with tab1:
 """)
 
 skills = {
-    "Python": 65,
-    "JavaScript": 55,
+    "Python": 60,
+    "JavaScript": 50,
     "SQL": 50,
     "HTML/CSS": 55,
-    "Streamlit": 40,
-    "Git/Github": 65
+    "Streamlit": 30,
+    "Git/Github": 65,
+    "Excel": 70,
+    "Java": 30,
 }
 
 with tab2:
@@ -79,7 +81,7 @@ with tab5:
 #                """)
 
 with tab6:
-    st.header("Entre em contato")
+    st.subheader("-- Entre em contato --")
     st.write("Email: [dinahdantass@email.com](mailto:dinahdantass@email.com)")
     st.write("LinkedIn: [linkedin.com/in/dinah-r-dantas-384a26198/](https://www.linkedin.com/in/dinah-r-dantas-384a26198/)")
     st.write("GitHub: [github.com/dinah-parag](https://github.com/dinahparag)")
